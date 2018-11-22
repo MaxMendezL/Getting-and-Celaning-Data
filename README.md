@@ -1,5 +1,5 @@
 
-# Getting-and-Celaning-Data (Coursera)
+# Getting-and-Cleaning-Data (Coursera)
 
 Human Activity Recognition Using Smartphones Data Set
 
